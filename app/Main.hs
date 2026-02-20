@@ -5,6 +5,7 @@ import Ln02
 import Ln03
 import Ln04
 import Ln05
+import Ln06
 
 main :: IO ()
 -- main = putStrLn "Hello, Haskell!"

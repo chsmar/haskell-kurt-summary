@@ -14,3 +14,10 @@ t2 = snd
 
 comparar :: Ord a => a -> a -> Ordering
 comparar = compare
+
+intercambiar = flip
+
+l1 = head
+ls = tail
+ln = last
+invertir = reverse
